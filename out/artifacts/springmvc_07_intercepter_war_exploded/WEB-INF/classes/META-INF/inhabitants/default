@@ -1,0 +1,3 @@
+# generated on 10 Dec 2010 07:01:43 GMT
+class=org.glassfish.ha.store.impl.NoOpBackingStoreFactory,index=org.glassfish.ha.store.api.BackingStoreFactory:noop
+class=org.glassfish.ha.store.spi.ObjectInputStreamWithLoader

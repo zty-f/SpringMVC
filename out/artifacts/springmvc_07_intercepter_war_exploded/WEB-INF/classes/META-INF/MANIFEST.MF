@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Export-Package: javax.annotation;version="1.1",javax.annotation.securi
+ ty;version="1.1",javax.annotation.sql;version="1.1"
+Built-By: java_re
+Tool: Bnd-0.0.357
+Bundle-Name: javax.annotation API v.1.1
+Created-By: Apache Maven Bundle Plugin
+Bundle-Vendor: GlassFish Community
+Build-Jdk: 1.6.0_22
+Bundle-Version: 3.1.1.b06
+Bnd-LastModified: 1306669665611
+Bundle-ManifestVersion: 2
+Bundle-License: https://glassfish.dev.java.net/nonav/public/CDDL+GPL.h
+ tml
+Bundle-Description: Common Annotations for the JavaTM Platform API ver
+ sion 1.1 Repackaged as OSGi bundle in GlassFish
+Bundle-SymbolicName: org.glassfish.javax.annotation
+Bundle-DocURL: https://glassfish.dev.java.net
+Embed-Dependency: *;scope=compile;inline=true
+Import-Package: javax.annotation;version="1.1",javax.annotation.securi
+ ty;version="1.1",javax.annotation.sql;version="1.1"
+
